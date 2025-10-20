@@ -161,3 +161,22 @@ button {
     transition: opacity 1s ease-in-out;
     user-select: none;
 }
+/* Ghi chú nhỏ dưới tiêu đề */
+.audio-note {
+    font-size: 14px;
+    font-style: italic;
+    color: rgba(0,0,0,0.55);
+    margin-top: -5px;
+    margin-bottom: 10px;
+    animation: fadeVolume 2s ease-in-out infinite alternate;
+}
+
+@keyframes fadeVolume {
+    from {
+        opacity: 0.4;
+    }
+
+    to {
+        opacity: 0.8;
+    }
+}

@@ -57,7 +57,7 @@ function showLetter() {
     // nếu có morse => hiển thị Morse thay dòng gạch
     const divider = morse
         ? `<div class="divider morse">${morse}</div>`
-        : `<div class="divider">-----------------------------</div>`;
+        : `<div class="divider">-----------------------------------------------------------------------</div>`;
 
     // nếu có Morse => thêm dòng note nhỏ dưới chữ ký
     const morseNote = morse
@@ -136,5 +136,5 @@ function typeTextVertical(text, container, callback) {
             clearInterval(timer);
             if (callback) callback();
         }
-    }, 5);
+    }, 100);
 }
