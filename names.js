@@ -449,4 +449,18 @@ const specialGroups = [
         message: "20-10 chúc bạn zui zẻ, hay ăn chóng béo, xinh đẹp hơn, học giỏi để lấy học bổng nhé :)). À còn nữa, sớm cho bn ăn cỗ nhé 🤣🤣 ",
         ending: "\"Bạn cùng bàn 3 năm :>\""
     },
+
+        {
+        names: ["Hưng Bền", "Nguyễn Thành Hưng", "Hưng Bề Bề", "Hưng bề bề"],
+        displayName: "Hưng bề bề🦐",
+        message: "Chúc e Hưng bề bề 20-10 zui zẻ nhé, sớm phá kỉ lục 100 quả lọ nhé kkk. Mà thôi, thận như tổ ong r đấy 🤣🤣🤣",
+        ending: "Người bth nhất trong 2 thèng gey còn lại"
+    },
+
+    {
+        names: ["Bùi Văn Hải", "BVS", "Bùi Hải", "Hải Bùi", "Hải bùi", "Hải Hạnh"],
+        displayName: "Hải dớ hay hở ...",
+        message: "chúc e Hải dớ 20-10 zui zẻ nhé, sớm khỏi ốm còn thực hiện hành trình 100 quả lọ 1 ngày nhé 🤣🤣. À thôi thận m như tổ ong r đấy :)))",
+        ending: "Người bth nhất trong 2 thèng gey còn lại"
+    },
 ];
