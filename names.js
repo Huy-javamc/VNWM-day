@@ -418,7 +418,7 @@ const specialGroups = [
         ending: "Người bth nhất trong 2 thèng gey còn lại"
     },
     {
-        names: ["Trần Thị Ngọc Mai", "Ngọc Mai", "Mai", "Ngọc mai", "mai"],
+        names: ["Trần Thị Ngọc Mai","Trần Ngọc Mai", "Ngọc Mai", "Mai", "Ngọc mai", "mai"],
         displayName: "Ngọc Mai",
         message: "Chúc e 20-10 zui vẻ, xinh đẹp, học giỏi hơn nhé, năm nhất cố gắng nhiều lên e nhé, ak nhớ thêm điệu nhảy kiếm điểm rèn luyện \"quốc dân\" nữa nhé e 🤣",
         ending: "see yah"
