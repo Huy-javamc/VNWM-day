@@ -451,14 +451,14 @@ const specialGroups = [
     },
 
     {
-        names: ["Hưng Bền","Nguyễn Thành Hưng","Hưng Bề Bề","Hưng bề bề"],
+        names: ["Hưng Bền","Nguyễn Thành Hưng","Hưng Bề Bề","Hưng bề bề","Hưng","hưng"],
         displayName: "Hưng bề bề🦐",
         message: "Chúc e Hưng bề bề 20-10 zui zẻ nhé, sớm phá kỉ lục 100 quả lọ nhé kkk. Mà thôi, thận như tổ ong r đấy 🤣🤣🤣",
         ending: "Người bth nhất trong 2 thèng gey còn lại"
     },
 
     {
-        names: ["Bùi Văn Hải","BVS","Bùi Hải","Hải Bùi","Hải bùi","Hải Hạnh"],
+        names: ["Bùi Văn Hải","BVS","Bùi Hải","Hải Bùi","Hải bùi","Hải Hạnh","Hải","hải"],
         displayName: "Hải dớ hay hở ...",
         message: "chúc e Hải dớ 20-10 zui zẻ nhé, sớm khỏi ốm còn thực hiện hành trình 100 quả lọ 1 ngày nhé 🤣🤣. À thôi thận m như tổ ong r đấy :)))",
         ending: "Người bth nhất trong 2 thèng gey còn lại"
