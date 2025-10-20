@@ -136,5 +136,5 @@ function typeTextVertical(text, container, callback) {
             clearInterval(timer);
             if (callback) callback();
         }
-    }, 5);
+    }, 100);
 }
