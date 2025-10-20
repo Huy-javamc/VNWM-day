@@ -423,4 +423,30 @@ const specialGroups = [
         message: "Chúc e 20-10 zui vẻ, xinh đẹp, học giỏi hơn nhé, năm nhất cố gắng nhiều lên e nhé, ak nhớ thêm điệu nhảy kiếm điểm rèn luyện \"quốc dân\" nữa nhé e 🤣",
         ending: "see yah"
     },
+
+        {
+        names: [
+  "NGUYỄN THỊ MINH THƯ","THƯ MINH THỊ NGUYỄN","NGUYỄN MINH THƯ","THỊ MINH THƯ","MINH THƯ","NGUYỄN THƯ","THƯ NGUYỄN","THỊ THƯ","THƯ",
+  "NGUYEN THI MINH THU","THU MINH THI NGUYEN","NGUYEN MINH THU","THI MINH THU","MINH THU","NGUYEN THU","THU NGUYEN","THI THU","THU",
+  "Nguyễn Thị Minh Thư","Thư Minh Thị Nguyễn","Nguyễn Minh Thư","Thị Minh Thư","Minh Thư","Nguyễn Thư","Thư Nguyễn","Thị Thư","Thư",
+  "nguyễn thị minh thư","thư minh thị nguyễn","nguyễn minh thư","thị minh thư","minh thư","nguyễn thư","thư nguyễn","thị thư","thư",
+  "nguyen thi minh thu","thu minh thi nguyen","nguyen minh thu","thi minh thu","minh thu","nguyen thu","thu nguyen","thi thu","thu",
+  "Nguyen Thi Minh Thu","Thu Minh Thi Nguyen","Nguyen Minh Thu","Thi Minh Thu","Minh Thu","Nguyen Thu","Thu Nguyen","Thi Thu","Thu",
+
+  "N.T.M.T","N T M T","N.T.MINH THƯ","N T MINH THƯ","NTMT","N.T.M.T.","N T M T.","N.T.MT",
+  "Nguyễn T. Minh Thư","Nguyễn T.M.T","Nguyễn T.Minh Thư","Nguyễn T.MT","Nguyễn T.M.Thư",
+
+  "T.M.T.N","T M T N","T.M.T.NG","T.M.T.NGUYEN","TMTN","T M T N G",
+  "M.T.N","M T N","M.T.NGUYỄN","M T NGUYEN","MTN","M T N G",
+
+  "Minh Thư Nguyễn","Thư Nguyễn","Thư N T","Thư N.T","Thư M.T","Thư Nguyễn Thị",
+  "Minh Thu Nguyen","Thu Nguyen","Thu N T","Thu N.T","Thu M.T","Thu Nguyen Thi",
+
+  "NTMTHU","THUNG","NGUYENTHU","THUNGUYEN","N T MT","N.T.M.THU","T M T N","M T T N","Thư Thí", "Thư thí"
+]
+,
+        displayName: "Thị Minh Thư",
+        message: "20-10 chúc bạn zui zẻ, hay ăn chóng béo, xinh đẹp hơn, học giỏi để lấy học bổng nhé :)). À còn nữa, sớm cho bn ăn cỗ nhé 🤣🤣 ",
+        ending: "\"Bạn cùng bàn 3 năm :>\""
+    },
 ];
