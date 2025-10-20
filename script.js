@@ -115,7 +115,7 @@ function findMessageForName(input) {
     }
     return {
         displayName: "Bạn",
-        message: "Chúc bạn luôn vui vẻ, hạnh phúc và rạng rỡ trong ngày 20/10 này 💐",
+        message: "Chúc bạn luôn vui vẻ, hạnh phúc. Chúc bạn tất cả trừ vất vả trong ngày 20/10 này nhé 💐",
         ending: "Thân mến 💖",
         morse: null
     };
