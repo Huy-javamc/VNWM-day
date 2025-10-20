@@ -417,4 +417,10 @@ const specialGroups = [
         message: "Nhân ngày 20-10 này, chức e xinh tươi zui zẻ, hay ăn chóng lớn nhé chứ người hơi bé đấy =)) và học giỏi như chị Lệ nhé, “bà nói là e học không đc giỏi như chị cho lắm” =))). Năm nhất nên chắc cũng hơi bỡ ngỡ với môi trường đại học e nhỉ, nhưng r cũng sẽ quen thôi. ",
         ending: "Người bth nhất trong 2 thèng gey còn lại"
     },
+    {
+        names: ["Trần Thị Ngọc Mai", "Ngọc Mai", "Mai", "Ngọc mai", "mai"],
+        displayName: "Ngọc Mai",
+        message: "Chúc e 20-10 zui vẻ, xinh đẹp, học giỏi hơn nhé, năm nhất cố gắng nhiều lên e nhé, ak nhớ thêm điệu nhảy kiếm điểm rèn luyện \"quốc dân\" nữa nhé e 🤣",
+        ending: "see yah"
+    },
 ];
